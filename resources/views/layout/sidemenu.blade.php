@@ -26,7 +26,7 @@
           </li>
 
           <li class="nav-item">
-            <a href="{{url('/Student')}}" class="nav-link">
+            <a href="{{url('/student')}}" class="nav-link">
               <i class="nav-icon fas fa-book"></i>
               <p>
                 Student

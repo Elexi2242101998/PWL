@@ -8,5 +8,7 @@ show tables;
 desc teacher;
 
 ALTER TABLE student RENAME TO students;
-select * from student
+select * from users
 ;
+
+show tables;
